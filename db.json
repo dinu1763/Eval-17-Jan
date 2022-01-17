@@ -1,0 +1,28 @@
+{
+  "jobs": [
+    {
+      "companyName": "Masai School",
+      "jobTitle": "SDE II",
+      "salary": "1000000",
+      "jobDescription": "Full Stack Web Developer",
+      "jobType": "Remote",
+      "id": 1
+    },
+    {
+      "companyName": "Ola Electric",
+      "jobTitle": "SDE III",
+      "salary": "20,00,000",
+      "jobDescription": "Front End Engineer",
+      "jobType": "WFH",
+      "id": 2
+    },
+    {
+      "companyName": "Flipkart",
+      "jobTitle": "Data Science ",
+      "salary": "30,00,000",
+      "jobDescription": "Expert Machine Learning and Data Science Engineer",
+      "jobType": "Remote",
+      "id": 3
+    }
+  ]
+}
